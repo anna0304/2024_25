@@ -1,4 +1,3 @@
-# 2024_25
 # Annabella 22/10/2024 
 Mi primer commeit
 
