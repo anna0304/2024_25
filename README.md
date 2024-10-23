@@ -6,4 +6,9 @@ Qué hace el proyecto.
 Por qué el proyecto es útil.
 Cómo pueden comenzar los usuarios con el proyecto.
 Dónde pueden recibir ayuda los usuarios con el proyecto.
+rama_nueva
 Quién mantiene y contribuye con el proyect
+=======
+Quién mantiene y contribuye con el proyecto.
+pus si
+main
